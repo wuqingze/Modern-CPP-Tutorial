@@ -1,1 +1,1 @@
-<video preload="auto" src="blob:https://www.xvideos.com/644cafb4-6a50-4efe-b1f0-10aa2fb42751" poster=""></video>
+[![Watch the video](./imgs/bilibili.jpg)](https://www.bilibili.com/video/BV1qK4y1V7bZ?spm_id_from=333.851.b_7265706f7274466972737431.8)
