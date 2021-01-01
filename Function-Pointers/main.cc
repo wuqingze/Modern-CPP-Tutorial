@@ -29,7 +29,21 @@ void print(vector<int> &list, int(*f)(int )){
     for(auto v:list) f(v);
 }
 
+void setValue(int &n){
+    n = 10;
+}
+
 int main(){
+    const int& a = 120;
+    cout<<a<<endl;
+    return 0;
+
+    int n  = 11;
+    setValue(n);
+    cout<<n<<endl;
+    return 0;
+
+
     vector<int> l4 = {1, 2, 3};
     print(l4, &PrintValue00);
     return 0;
